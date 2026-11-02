@@ -1,6 +1,7 @@
 ---
 order: 28
 ---
+
 - SQL = a declarative language where we say what data we want to retrieve
 - RA = an algebra where we say how we want to retrieve the data
 - RDMS translates SQL to RA then optimizes for performance
